@@ -3,7 +3,7 @@
 All of my solved freecodecamp i will post here
 </p>
 <p>
-To unescape the index.js json params, use <a href="https://codebeautify.org/json-escape-unescape">this</a>
+To unescape the index.js json params, use <a href="https://codebeautify.org/json-escape-unescape" target="_blank">this</a>
 </p>
 
 
