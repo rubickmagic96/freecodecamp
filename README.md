@@ -2,6 +2,10 @@
 <p>
 All of my solved freecodecamp i will post here
 </p>
+<p>
+To unescape the index.js json params, use
+[this]https://codebeautify.org/json-escape-unescape
+</p>
 
 
 - [ ] Javascript
