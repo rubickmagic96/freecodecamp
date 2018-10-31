@@ -1,0 +1,1 @@
+{"index.js":"var myList = [\n    [\n        \"Chocolate Bar\", 15\n    ],\n    [\n        \"Choco Drink\", 10\n    ],\n    [\n        \"Pizza\", 30\n    ],\n    [\n        \"Humberger\", 40\n    ],\n    [\n        \"Orange Juice\", 5\n    ]\n];\n\n"}
