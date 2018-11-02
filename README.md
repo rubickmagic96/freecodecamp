@@ -8,7 +8,7 @@ To unescape the index.js json params, use <a href="https://codebeautify.org/json
 
 
 - [ ] Javascript
-    - [ ] Basic Javascript
+    - [x] Basic Javascript
     - [ ] ES6
     - [ ] Regular Expressions
     - [ ] Debugging
